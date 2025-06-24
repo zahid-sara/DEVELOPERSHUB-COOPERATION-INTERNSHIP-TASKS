@@ -1,4 +1,4 @@
-# 📊 Data Analysis and Modeling Tasks
+#  Data Analysis and Modeling Tasks
 
 This project notebook consists of three core exploratory and predictive tasks:
 
